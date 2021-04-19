@@ -4,6 +4,11 @@
 
 # NHL Special Teams Statistics 2018-2019 Season
 
+# Motivation
+As a former hockey player, I always wondered how much of an impact special teams in the big league and so I wanted to try and correlate the top teams in the NHL to their power play and penalty kill rankings. 
+
+# Data Process
+
 # Visualization
 
 <img src = "https://raw.githubusercontent.com/swiranata/My-personal-data-set/main/Power%20play%20goals%20for%20vs%20against%20figure.PNG">
