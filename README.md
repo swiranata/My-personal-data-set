@@ -11,7 +11,7 @@ As a former hockey player, I always wondered how much of an impact special teams
 The Data that I obtained came from
 https://www.hockey-reference.com/leagues/NHL_2019.html and https://www.espn.com/nhl/statistics/team/_/stat/special-teams/sort/powerPlayPct/year/2019/league/east.
 
-The First link is for the NHL league rankings which is just what I wanted to compare with the special teams data. The second link is from ESPN where the NHL special teams data came from. In terms of cleaning I basically uploaded the data into an excel file then removed the strings that I did not need so that I could use R Studios to make a visualization. Also note that anything in the file that has a decimal in it is a percentage and I did not use it. I just wanted to use raw numbers and not calcualted percentages. I thought about putting a line of best fit in the scatterplot, but there was too much discrepency between points and really no trend to be followed. 
+The First link is for the NHL league rankings which is just what I wanted to compare with the special teams data. For league rankings data I just removed all the columns other than ranking as that was the only thing I was going to look at. The second link is from ESPN where the NHL special teams data came from. In terms of cleaning I basically uploaded the data into an excel file then removed the strings that I did not need so that I could use R Studios to make a visualization. Also note that anything in the file that has a decimal in it is a percentage and I did not use it. I just wanted to use raw numbers and not calcualted percentages. I thought about putting a line of best fit in the scatterplot, but there was too much discrepency between points and really no trend to be followed. 
 
 # Visualization
 
